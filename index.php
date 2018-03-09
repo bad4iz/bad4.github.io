@@ -10,9 +10,6 @@
 
 <body>
   ljljlljljloijjoijijo
-  <?php
-    echo(6*6);
-  ?>
 
 </body>
 
